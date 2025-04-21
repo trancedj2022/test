@@ -58,7 +58,7 @@ jobs:
           cd arm64
           
           # Nezha Agent arm64
-          wget https://github.com/nezhahq/agent/releases/download/v0.20.1/nezha-agent_linux_arm64.zip
+          wget https://github.com/nezhahq/agent/releases/download/v0.20.5/nezha-agent_linux_arm64.zip
           unzip -o nezha-agent_linux_arm64.zip
           chmod +x nezha-agent
           

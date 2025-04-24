@@ -27,7 +27,7 @@ jobs:
           cd amd64
           
           # Nezha Agent amd64
-          wget https://github.com/nezhahq/agent/releases/download/v0.20.1/nezha-agent_linux_amd64.zip
+          wget https://github.com/nezhahq/agent/releases/download/v0.20.5/nezha-agent_linux_amd64.zip
           unzip -o nezha-agent_linux_amd64.zip
           chmod +x nezha-agent
           
